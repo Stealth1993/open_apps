@@ -11,4 +11,5 @@ pyinstaller --onefile --noconsole open_apps.py
 v2.0.1
 -Added auto chcek for Teams & Outlook versions.
 -Need to run updated pyinstaller for the executable file.
+-Make sure to check other apps' path, you want to add.
 #pyinstaller --noconsole --onefile --uac-admin --icon=iran.ico open_apps_v2.py
