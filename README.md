@@ -13,3 +13,4 @@ v2.0.1
 -Need to run updated pyinstaller for the executable file.
 -Make sure to check other apps' path, you want to add.
 #pyinstaller --noconsole --onefile --uac-admin --icon=iran.ico open_apps_v2.py
+#This version checks for any changes in the version and act accordingly.
