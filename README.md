@@ -1,7 +1,7 @@
 # 🚀 **One-Click App Launcher for Windows**  
 
 ## **Launch Your Favorite Apps Instantly!** 🎯  
-Tired of manually opening the same applications every day? This simple yet powerful Python script lets you launch all your frequently used Windows apps with just **one click**!  
+Tired of manually opening the same applications every day? This simple yet powerful Python script lets you launch all your frequently used Windows apps with just **one click**!  Create your workspace with ease.
 
 ---
 
