@@ -12,7 +12,7 @@ This script leverages Python’s built-in modules to automate app launching effo
 🔹 `time` – Adds delays for smooth sequential execution  
 
 And for ultimate convenience, you can convert it into a **Windows executable** using **PyInstaller**.  
-
+It can also be run directly through cli: python open_apps.py
 ---
 
 ## **💻 Create an Executable (.exe)**  
