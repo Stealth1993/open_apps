@@ -57,4 +57,4 @@ for app in apps:
     open_application(app)
     time.sleep(2)
 
-#pyinstaller --onefile --noconsole --icon=iran.ico open_apps.py
+#pyinstaller --onefile --noconsole --icon=icon.ico open_apps.py
